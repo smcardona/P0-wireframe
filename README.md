@@ -106,7 +106,7 @@ la pagina de cesta de la compra i checkout, la pagina de autenticacion i registr
 Estas son las capturas de pantalla:
 
 - [Pagina de inicio](#pagina-de-inicio)
-- [Pagina de catalogo](#pagina-de-catalogo)
+- [Pagina de catalogo de los productos](#pagina-de-catalogo-de-los-productos)
 - [Pagina de detalles](#)
 - [Carrito y productos guardados](#carrito-y-productos-guardados)
 - [Checkout o Pago](#checkout--pago)
@@ -123,16 +123,15 @@ se especializa este comercio.
 
 <img src="imagenes_ui_escritorio/pagina_de_inicio_1.png" alt="Primera pantalla (web)" style="width:60%"><br><br>
 
+En esta captura podemos ver la seccion que nos muestra las guitarras mas destacadas de esta tienda. Mas abajo podemos ver una seccion que se centra en explicar la historia de la tienda y su recorrido.
 
+<img src="imagenes_ui_escritorio/pagina_de_inicio_2.png" alt="Segunda pantalla (web)" style="width:60%"><br><br>
 
+Como ultima captura de la pagina de inicio podemos ver la seccion de mas productos, dicha seccion es centra en que el usuario lo pique para que lo redirija a ver mas productos. Luego de eso vemos abajo una imagen. Esta imagen esta para decorar la pagina. Por ultimo vemos el footer de la pagina, donde se encuentra la informacion legal, su normativa y el contacto de la tienda.
 
+<img src="imagenes_ui_escritorio/pagina_de_inicio_3.png" alt="Tercera pantalla (web)" style="width:60%"><br><br>>
 
-
-
-
-
-
-### Pagina de catalogo
+### Pagina de catalogo de los productos
 
 
 
