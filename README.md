@@ -121,7 +121,7 @@ esta tienda web, en este caso, una tienda de guitarras. En esta pagina se centra
 la tienda, explicando su historia, mostrando sus productos mas destacados y en que se
 se especializa este comercio.
 
-<img src="imagenes_ui_escritorio" alt="Primera pantalla (web)" style="width:60%"><br><br>
+<img src="imagenes_ui_escritorio/pagina_de_inicio_1.png" alt="Primera pantalla (web)" style="width:60%"><br><br>
 
 
 
