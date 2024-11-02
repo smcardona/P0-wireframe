@@ -99,3 +99,41 @@ en cualquier lugar del post y agregar formato al texto.
 
 <img src="imagenes_ui_movil/posts.png" alt="Seccion de posts (android)" style="width:60%"><br><br>
 
+## Esquema para escritorio (web)
+
+Este esquema consta de 6 puntos principales: la pagina de inicio, la pagina de catalogo de productos, la pagina de detalles del producto,
+la pagina de cesta de la compra i checkout, la pagina de autenticacion i registro de usuarios i la pagina de blog i noticias.
+Estas son las capturas de pantalla:
+
+- [Pagina de inicio](#pagina-de-inicio)
+- [Pagina de catalogo](#pagina-de-catalogo)
+- [Pagina de detalles](#)
+- [Carrito y productos guardados](#carrito-y-productos-guardados)
+- [Checkout o Pago](#checkout--pago)
+- [Relacionado a cuenta](#cuenta)
+- [Posts o noticias](#posts)
+
+
+### Pagina de inicio
+
+Al ingresar veremos la pagina de inicio que nos mostrara lo que ofrece
+esta tienda web, en este caso, una tienda de guitarras. En esta pagina se centra en presentar
+la tienda, explicando su historia, mostrando sus productos mas destacados y en que se
+se especializa este comercio.
+
+<img src="imagenes_ui_escritorio/pagina_de_inicio_1.png" alt="Primera pantalla (web)" style="width:60%"><br><br>
+
+
+
+
+
+
+
+
+
+
+### Pagina de catalogo
+
+
+
+### Pagina de detalles
