@@ -102,16 +102,20 @@ en cualquier lugar del post y agregar formato al texto.
 ## Esquema para escritorio (web)
 
 Este esquema consta de 6 puntos principales: la pagina de inicio, la pagina de catalogo de productos, la pagina de detalles del producto,
-la pagina de cesta de la compra i checkout, la pagina de autenticacion i registro de usuarios i la pagina de blog i noticias.
+la pagina de cesta de la compra y checkout, la pagina de autenticacion y registro de usuarios y la pagina de blog y noticias.
 Estas son las capturas de pantalla:
 
 - [Pagina de inicio](#pagina-de-inicio)
 - [Pagina de catalogo de los productos](#pagina-de-catalogo-de-los-productos)
-- [Pagina de detalles](#)
-- [Carrito y productos guardados](#carrito-y-productos-guardados)
-- [Checkout o Pago](#checkout--pago)
-- [Relacionado a cuenta](#cuenta)
-- [Posts o noticias](#posts)
+- [Pagina de formulario de insercion de nuevos productos](#pagina-de-formulario-de-insercion-de-nuevos-productos)
+- [Pagina de detalles del producto](#pagina-de-detalles-del-producto)
+- [Pagina de cesta de la compra](#pagina-de-cesta-de-la-compra)
+- [Pagina de chechout](#pagina-de-checkout)
+- [Pagina de login](#pagina-de-login)
+- [Pagina de registro](#pagina-de-registro-de-usuarios)
+- [Pagina de recuperacion de contraseña](#paginas-de-recuperacion-de-contraseña)
+- [Pagina de blogs y noticias](#pagina-de-blogs-y-noticias)
+- [Pagina para publicar blogs y noticias](#pagina-para-publicar-blogs-i-noticias)
 
 
 ### Pagina de inicio
@@ -129,10 +133,80 @@ En esta captura podemos ver la seccion que nos muestra las guitarras mas destaca
 
 Como ultima captura de la pagina de inicio podemos ver la seccion de mas productos, dicha seccion es centra en que el usuario lo pique para que lo redirija a ver mas productos. Luego de eso vemos abajo una imagen. Esta imagen esta para decorar la pagina. Por ultimo vemos el footer de la pagina, donde se encuentra la informacion legal, su normativa y el contacto de la tienda.
 
-<img src="imagenes_ui_escritorio/pagina_de_inicio_3.png" alt="Tercera pantalla (web)" style="width:60%"><br><br>>
+<img src="imagenes_ui_escritorio/pagina_de_inicio_3.png" alt="Tercera pantalla (web)" style="width:60%"><br><br>
 
 ### Pagina de catalogo de los productos
 
+En esta pagina podemos ver una lista de productos, con un menu  para filtrar las guitarras a nuestro gusto y una barra de busqueda para buscar una guitarra en concreto. Podemos ver que al lado de cada imagen de la guitarra podemos ver el icono de añadir al carrito y el de añadir a favoritos.
 
+<img src="imagenes_ui_escritorio/pagina_de_catalogo_1.png"alt="Cuarta pantalla (web)" style="width:60%"><br><br>
 
-### Pagina de detalles
+En esta seguna imagen podemos ver como continua la pagina y podemos notar un texto donde dice "insertar un nuevo producto". Esta opcion saldra cuando el usuario sea administrador.
+
+<img src="imagenes_ui_escritorio/pagina_de_catalogo_2.png"alt="Quinta pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de formulario de insercion de nuevos productos
+
+Si el usuario que sea administrador pica la funcion de insertar lo enviara a la suguiente pagina. En esta pagina podemos ver los diferentes campos para rellenar con tal de publicar un nuevo porducto.
+
+<img src="imagenes_ui_escritorio/pagina_de_formulario.png"alt="Sexta pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de detalles del producto
+
+En esta pagina podremos ver con mas detalle las caracteristicas de una guitarra. Veremos sus diferentes imagenes que tenga, su descripcion, sus especificaciones tecnicas y mas informacion del porducto.
+
+<img src="imagenes_ui_escritorio/pagina_de_detalles_1.png"alt="Septima pantalla (web)" style="width:60%"><br><br>
+
+Como a continuacion de la pagina podemos ver una seccion de reseñas, donde los usuarios pueden dejar su opinion sobre el producto y una valoracion de 1 a 5 estrellas.
+
+<img src="imagenes_ui_escritorio/pagina_de_detalles_2.png"alt="Octava pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de cesta de la compra
+
+En esta pagina el usuario podra ver todos los productos que ha guardado  en la cesta de la compra. El usuario si queire podra aumentar la cantidad de los productos que quiera, asi como la opcion de eliminar un producto de la cesta. 
+
+<img src="imagenes_ui_escritorio/pagina_de_cesta.png"alt="Novena pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de checkout
+
+Esta es la pagina que se muestra cuando picas el boton de comprar o pagar. Esta pagina sirve para tramitar el pago de un pedido, pidiendo los siguientes datos.
+
+<img src="imagenes_ui_escritorio/pagina_de_checkout.png"alt="Decima pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de login
+
+Esta es la pagina que sale cuando picas al icono del usuario. Aqui es donde el usuario iniciara sesion.
+
+<img src="imagenes_ui_escritorio/pagina_de_login.png"alt="Onceava pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de registro de usuarios
+
+Esta pagina es para aquellos usuario que no tengan una cuenta en esta web. Se les pedira rellenar los diferentes campos con tal de crearse una cuenta.
+
+<img src="imagenes_ui_escritorio/pagina_de_registro.png"alt="Doceava pantalla (web)" style="width:60%"><br><br>
+
+### Paginas de recuperacion de contraseña
+
+Estas paginas son para poder ingresar a la cuenta en caso de que el usuario se haya olvidado su contraseña. Aqui se le envia un codigo a su correo para verificar.
+
+<img src="imagenes_ui_escritorio/pagina_de_recuperar_1.png"alt="Treceava pantalla (web)" style="width:60%"><br><br>
+
+El siguiente paso es crearse una nueva contraseña para utilizarla para ingresar en la cuenta.
+
+<img src="imagenes_ui_escritorio/pagina_de_recuperar_2.png"alt="Catorce pantalla (web)" style="width:60%"><br><br>
+
+### Pagina de blogs y noticias
+
+En esta pagina podremos ver las diferentes publicaciones sobre el mundo relacionado con las guitarras, pudiendo visualizar blogs, articulos, noticias, posts, etc. Tambien podemos ver una opcion de publicar, que solo podra ser visible para aquel usuario que se administrador.
+
+<img src="imagenes_ui_escritorio/pagina_de_blogs_1.png"alt="Quinze pantalla (web)" style="width:60%"><br><br>
+
+Podemos ver como continua y como al final hay la opcion de pasar a otra pagina, asi como tambien que nos indica que nos encontramos en la pagina "1" de noticias.
+
+<img src="imagenes_ui_escritorio/pagina_de_blogs_2.png"alt="Dieciseis pantalla (web)" style="width:60%"><br><br>
+
+### Pagina para publicar blogs i noticias
+
+En esta pagina se podra publicar blogs i noticias. Esta funcion sera disponible solo para adminitradores.
+
+<img src="imagenes_ui_escritorio/pagina_de_publicar_blogs.png"alt="Diecisiete pantalla (web)" style="width:60%"><br><br>
