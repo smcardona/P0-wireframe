@@ -147,7 +147,7 @@ En esta seguna imagen podemos ver como continua la pagina y podemos notar un tex
 
 ### Pagina de formulario de insercion de nuevos productos
 
-Si el usuario que sea administrador pica la funcion de insertar lo enviara a la suguiente pagina. En esta pagina podemos ver los diferentes campos para rellenar con tal de publicar un nuevo porducto.
+Si el usuario que sea administrador pica la funcion de insertar lo enviara a la siguiente pagina. En esta pagina podemos ver los diferentes campos para rellenar con tal de publicar un nuevo porducto.
 
 <img src="imagenes_ui_escritorio/pagina_de_formulario.png" alt="Sexta pantalla (web)" style="width:60%"><br><br>
 
