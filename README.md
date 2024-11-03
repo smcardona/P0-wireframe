@@ -5,6 +5,11 @@ Incluye un esquema de la interfaz para movil y tambien para escritorio (web). <b
 <br>
 Ambos esquemas fueron realizados usando la plataforma [excalidraw.com](https://excalidraw.com/). <br>
 
+## Links directos
+Para ir rapidamente a cada esquema ya sea web o móvil, puede usar los siguientes links: <br>
+- [Esquema movil](#esquema-para-plataforma-movil)
+- [Esquema web](#esquema-para-escritorio-web)
+
 ## Esquema para plataforma Movil
 
 El esquema se encuentra en este repositorio dentro del archivo [android-schema](./mobile-schema.excalidraw)<br>
